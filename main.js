@@ -1904,7 +1904,7 @@ function getPromoCardHtml(type = 'image') {
       </div>
       <div class="results-promo-body">
         <div class="results-promo-icon-box">
-          <img src="https://permuteit.github.io/online-image-converter/favicon.ico"
+          <img src="https://permuteit.github.io/gemini-watermark-remover/assets/favicon.ico"
             onerror="this.onerror=null; this.src='https://www.google.com/s2/favicons?domain=permuteit.github.io&amp;sz=64';"
             alt="Online Image Converter Favicon"
             class="tool-favicon-img" width="26" height="26" loading="lazy" />
